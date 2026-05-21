@@ -12,7 +12,7 @@ Interested in backend-heavy products, scalable systems, and clean architecture.
 **Languages:** JavaScript, TypeScript, SQL  
 **Backend:** Node.js, Express, NestJS  
 **Frontend:** React, HTML, CSS, Tailwind, ReactNative  
-**Databases:** PostgreSQL, MongoDB, MySQL, Sequelize  
+**Databases:** PostgreSQL, MongoDB, MySQL, ClickHouse, Sequelize 
 **Tools:** Docker, Git, GitHub, Postman, Linux 
 
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VLADOOSit&layout=compact"/> </a>
