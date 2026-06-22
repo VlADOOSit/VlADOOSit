@@ -13,7 +13,7 @@ Interested in backend-heavy products, scalable systems, and clean architecture.
 **Backend:** Node.js, Express, NestJS  
 **Frontend:** React, HTML, CSS, Tailwind, Next, ReactNative  
 **Databases:** PostgreSQL, MongoDB, MySQL, Sequelize     
-**Tools:** Git, GitHub, Postman, Linux 
+**Tools:** Git, GitHub, Postman, Linux   
 **DevOps & Infrastructure:** Proxmox, Traefik, Docker, docker-compose, CI/CD  
 **Data & Monitoring:** Metabase, Airflow, InfluxDB, Elasticsearch, ClickHouse  
 
