@@ -14,7 +14,7 @@ Interested in backend-heavy products, scalable systems, and clean architecture.
 **Frontend:** React, HTML, CSS, Tailwind, Next, ReactNative  
 **Databases:** PostgreSQL, MongoDB, MySQL, Sequelize     
 **Tools:** Git, GitHub, Postman, Linux   
-**DevOps & Infrastructure:** Proxmox, Traefik, Docker, docker-compose, CI/CD  
-**Data & Monitoring:** Metabase, Airflow, InfluxDB, Elasticsearch, ClickHouse  
+**DevOps & Infrastructure:** Proxmox, Traefik, Docker, docker-compose, CI/CD, Odoo  
+**Data & Monitoring:** Metabase, Airflow, InfluxDB, Elasticsearch, ClickHouse, Grafana  
 
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VLADOOSit&layout=compact"/> </a>
