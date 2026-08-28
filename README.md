@@ -5,7 +5,7 @@ VlADOOSit
 # Hi, I'm Vladyslav Kharkivskyi
 
 Full-Stack Developer building web applications with JavaScript, TypeScript, Node.js, React, PostgreSQL, and Docker.
-Interested in backend-heavy products, scalable systems and clean architecture.
+Interested in backend-heavy products, scalable systems and clean architecture. 
 
 ## Tech stack
 
@@ -13,7 +13,7 @@ Interested in backend-heavy products, scalable systems and clean architecture.
 **Backend:** Node.js, Express, NestJS  
 **Frontend:** React, HTML, CSS, Tailwind, Next, ReactNative  
 **Databases:** PostgreSQL, MongoDB, MySQL, Sequelize     
-**Tools:** Git, GitHub, Postman, Linux   
+**Tools:** Git, GitHub, GitLab Postman, Linux   
 **DevOps & Infrastructure:** Proxmox, Traefik, Docker, docker-compose, CI/CD, Odoo  
 **Data & Monitoring:** Metabase, Airflow, InfluxDB, Elasticsearch, ClickHouse, Grafana  
 
