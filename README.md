@@ -18,5 +18,5 @@ Interested in backend-heavy products, scalable systems and clean architecture.
 **Data & Monitoring:** Metabase, Airflow, InfluxDB, Elasticsearch, ClickHouse, Grafana  
 **AI:** Claude Code, OpenAI API, Hermes, OpenClaw, Google AI Studio       
 
- <a href=""> <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VLADOOSit&layout=compact&size_weight=0.25&count_weight=0.75"/> </a>
+ <a href=""> <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VLADOOSit&layout=compact&size_weight=0.15&count_weight=0.85"/> </a>
 
