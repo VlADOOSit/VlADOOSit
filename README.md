@@ -11,7 +11,7 @@ Interested in backend-heavy products, scalable systems and clean architecture.
 
 **Languages:** JavaScript, TypeScript, SQL, Python, Golang  
 **Backend:** Node.js, Express, NestJS  
-**Frontend:** React, HTML, CSS, Tailwind, Next, ReactNative, Redux, Zustand, Astro  
+**Frontend:** React, HTML, CSS, Tailwind, Next, ReactNative, Redux, Zustand, Astro, Svelte  
 **Databases:** PostgreSQL, MongoDB, MySQL, Sequelize     
 **Tools:** Git, GitHub, GitLab Postman, Firebase, Linux   
 **DevOps & Infrastructure:** Proxmox, Traefik, Docker, docker-compose, CI/CD, Odoo, Hetzner  
