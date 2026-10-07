@@ -9,7 +9,7 @@ Interested in backend-heavy products, scalable systems and clean architecture.
 
 ## Tech stack
 
-**Languages:** JavaScript, TypeScript, SQL, Python, Golang  
+**Languages:** JavaScript, TypeScript, SQL, Python, Golang, C/C++  
 **Backend:** Node.js, Express, NestJS  
 **Frontend:** React, HTML, CSS, Tailwind, Next, React-Native, Redux, Zustand, Astro, Svelte  
 **Databases:** PostgreSQL, MongoDB, MySQL, Sequelize     
