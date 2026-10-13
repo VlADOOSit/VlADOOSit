@@ -15,7 +15,7 @@ Interested in backend-heavy products, scalable systems and clean architecture.
 **Databases:** PostgreSQL, MongoDB, MySQL, Sequelize     
 **Tools:** Git, GitHub, GitLab, Postman, Firebase, Linux   
 **DevOps & Infrastructure:** Proxmox, Traefik, Docker, docker-compose, CI/CD, Odoo, Hetzner  
-**Data & Monitoring:** Metabase, Airflow, InfluxDB, Elasticsearch, ClickHouse, Grafana  
+**Data & Monitoring:** Metabase, Airflow, Apify, InfluxDB, Elasticsearch, ClickHouse, Grafana  
 **AI:** Claude Code, OpenAI API, Hermes, OpenClaw, Google AI Studio       
 
  <a href=""> <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VLADOOSit&layout=compact&size_weight=0.15&count_weight=0.85"/> </a>
