@@ -12,10 +12,10 @@ Interested in backend-heavy products, scalable systems and clean architecture.
 **Languages:** JavaScript, TypeScript, SQL, Python, Golang, C/C++  
 **Backend:** Node.js, Express, NestJS  
 **Frontend:** React, HTML, CSS, Tailwind, Next, React-Native, Redux, Zustand, Astro, Svelte  
-**Databases:** PostgreSQL, MongoDB, MySQL, Sequelize     
+**Databases:** PostgreSQL, MongoDB, MySQL, ClickHouse, Sequelize     
 **Tools:** Git, GitHub, GitLab, Postman, Firebase, Linux   
 **DevOps & Infrastructure:** Proxmox, Traefik, Docker, docker-compose, CI/CD, Odoo, Hetzner  
-**Data & Monitoring:** Metabase, Airflow, Apify, InfluxDB, Elasticsearch, ClickHouse, Grafana  
+**Data & Monitoring:** Metabase, Airflow, Apify, InfluxDB, Elasticsearch, Grafana  
 **AI:** Claude Code, OpenAI API, Hermes, OpenClaw, Google AI Studio       
 
  <a href=""> <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VLADOOSit&layout=compact&size_weight=0.15&count_weight=0.85"/> </a>
