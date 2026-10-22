@@ -13,7 +13,7 @@ Interested in backend-heavy products, scalable systems and clean architecture.
 **Backend:** Node.js, Express, NestJS, REST API, GraphQL  
 **Frontend:** React, HTML, CSS, Tailwind, Next, React-Native, Redux, Zustand, Astro, Svelte  
 **Databases:** PostgreSQL, MongoDB, MySQL, ClickHouse, Sequelize     
-**Tools:** Git, GitHub, GitLab, Postman, Firebase, Linux   
+**Tools:** Git, GitHub, GitLab, Postman, Firebase, Supabase, Linux   
 **DevOps & Infrastructure:** Proxmox, Traefik, Docker, docker-compose, CI/CD, Odoo, Hetzner, GitHub Actions, AWS, Railway, Render, Vercel, Cloudflare  
 **Data & Monitoring:** Metabase, Airflow, Apify, InfluxDB, Elasticsearch, Grafana  
 **AI:** Claude Code, OpenAI API, Hermes, OpenClaw, Google AI Studio       
