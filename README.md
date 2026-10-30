@@ -16,7 +16,7 @@ Interested in backend-heavy products, scalable systems and clean architecture.
 **Tools:** Git, GitHub, GitLab, Postman, Firebase, Supabase, Linux   
 **DevOps & Infrastructure:** Proxmox, Traefik, Docker, docker-compose, CI/CD, Odoo, Hetzner, GitHub Actions, AWS, Railway, Render, Vercel, Cloudflare  
 **Data & Monitoring:** Metabase, Airflow, Apify, InfluxDB, Elasticsearch, Grafana  
-**AI:** Claude Code, OpenAI API, Hermes, OpenClaw, Google AI Studio       
+**AI:** Claude Code, OpenAI API, Hermes, OpenClaw, Google AI Studio, MCP       
 
  <a href=""> <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VLADOOSit&layout=compact&size_weight=0.15&count_weight=0.85"/> </a>
 
